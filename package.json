@@ -1,0 +1,32 @@
+{
+  "name": "CheckRadioListlist",
+  "version": "1.0.0",
+  "description": "radio buttoms and checkboxes as a list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DMalagonH/CheckRadioList.js.git"
+  },
+  "keywords": [
+    "radio",
+    "buttom",
+    "checkbox",
+    "list",
+    "bootstrap"
+  ],
+  "author": "Diego Malagón",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DMalagonH/CheckRadioList.js/issues"
+  },
+  "homepage": "https://github.com/DMalagonH/CheckRadioList.js#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-uglify": "^3.1.0"
+  }
+}
